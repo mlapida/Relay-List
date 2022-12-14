@@ -1,11 +1,10 @@
 input: .
 output: .retype
-url: # Add your website address here
+url: relaylist.com
+edit:
+  repo: https://github.com/mlapida/Relay-List
 branding:
   title: Relay List
-  label: beta
-links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+  label: alpha
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright: "Created by [Mike](https://lap.social/@mike)"

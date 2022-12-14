@@ -1,8 +1,8 @@
 ---
-name: Add New Relay
-about: Add a new relay
-title: "[ADD] Relay Name"
-labels: add-relay, relay-moderation
+name: Update Relay
+about: Update information for a relay listed
+title: "[UPDATE] Relay Name"
+labels: relay-moderation, update-relay
 assignees: ''
 
 ---

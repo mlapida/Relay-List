@@ -1,8 +1,8 @@
 ---
-name: Add New Relay
-about: Add a new relay
-title: "[ADD] Relay Name"
-labels: add-relay, relay-moderation
+name: Remove Relay
+about: Remove a relay from RelayList.com
+title: "[REMOVE] Relay Name"
+labels: relay-moderation, remove-relay
 assignees: ''
 
 ---

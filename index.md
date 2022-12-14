@@ -22,14 +22,15 @@ The size column is intended to estimate the volume of traffic that flows through
 
 | Label | Size Range |
 |---|---|
-| :large_green_circle: | Online | 
-| :large_yellow_circle: | Intermittent Availability | 
-| :red_circle: | Offline | 
+| Small | xxx | 
+| Medium | xxx | 
+| Large | xxx | 
 
 ## Status
 
 | Label | Definition |
 |---|---|
-| Small | xxx | 
-| Medium | xxx | 
-| Large | xxx | 
+| :large_green_circle: | Online | 
+| :large_yellow_circle: | Intermittent Availability | 
+| :red_circle: | Offline | 
+

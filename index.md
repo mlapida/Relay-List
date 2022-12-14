@@ -24,7 +24,7 @@ The size column is intended to estimate the volume of traffic that flows through
 |---|---|
 | :large_green_circle: | Online | 
 | :large_yellow_circle: | Intermittent Availability | 
-| :large_offline_circle: | Offline | 
+| :red_circle: | Offline | 
 
 ## Status
 
